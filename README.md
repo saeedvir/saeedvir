@@ -28,7 +28,10 @@ Hi my friends,
 * ### **naghshealvan,** *FullStack*
 * ### **rayan-kala,** *FullStack*
 * ### **iranvolunteering,** *FullStack* , *CEO*
-* ### **beryaniazam,** *Front-end*
+* ### **beryaniazam,** *FullStack*
+* ### **escapevision,** *FullStack*
+* ### **radicalescape,** *FullStack*
+
 
 ## ✨ SKILLS
 
