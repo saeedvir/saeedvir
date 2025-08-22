@@ -57,6 +57,7 @@ Hi my friends,
 
 ## ✅ The Latest Github Repositories
 * [PaL - PHP And Laravel Server Info And Laravel Requirements Checker + Optimization](//github.com/saeedvir/PaL-Server-Info)
+* [userCollectorJs - User Analytics Collection Script](https://github.com/saeedvir/userCollectorJs)
 
 ## 💬 SOCIAL LINKS
 
