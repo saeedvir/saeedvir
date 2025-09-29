@@ -60,6 +60,9 @@ Hi my friends,
 * [PaL - PHP And Laravel Server Info And Laravel Requirements Checker + Optimization](//github.com/saeedvir/PaL-Server-Info)
 * [userCollectorJs - User Analytics Collection Script](https://github.com/saeedvir/userCollectorJs)
 
+## Codepen
+* [Modern and simple bootstrap admin dashboard](https://codepen.io/saeedvir/pen/NPxNbNv)
+
 ## 💬 SOCIAL LINKS
 
 * [Telegram](//t.me/PhpWebDeveloper)
