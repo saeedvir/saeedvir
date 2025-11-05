@@ -56,6 +56,7 @@ Hi my friends,
 * Enough information for web security
 
 ## ✅ The Latest Github Repositories
+* [laravel-modular](https://github.com/saeedvir/laravel-modular)
 * [laravel project markdown - AI Readable](https://github.com/saeedvir/laravel-project-markdown)
 * [PaL - PHP And Laravel Server Info And Laravel Requirements Checker + Optimization](//github.com/saeedvir/PaL-Server-Info)
 * [userCollectorJs - User Analytics Collection Script](https://github.com/saeedvir/userCollectorJs)
