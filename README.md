@@ -56,6 +56,7 @@ Hi my friends,
 * Enough information for web security
 
 ## ✅ The Latest Github Repositories
+* [Laravel Supabase Package](https://github.com/saeedvir/supabase)
 * [Laravel-shopping-cart](https://github.com/saeedvir/shopping-cart/)
 * [laravel-modular](https://github.com/saeedvir/laravel-modular)
 * [Laravel-Permissions](https://github.com/saeedvir/laravel-permissions)
