@@ -57,6 +57,8 @@ Hi my friends,
 * Enough information for web security
 
 ## ✅ The Latest Github Repositories
+* [azar-datepicker](https://github.com/saeedvir/azar-datepicker)
+* [alaravel-pluginable](https://github.com/saeedvir/laravel-pluginable)
 * [Laravel Supabase Package](https://github.com/saeedvir/supabase)
 * [Laravel-shopping-cart](https://github.com/saeedvir/shopping-cart/)
 * [laravel-modular](https://github.com/saeedvir/laravel-modular)
@@ -73,6 +75,7 @@ Hi my friends,
 * [Telegram](//t.me/PhpWebDeveloper)
 * [Telegram Channel](//t.me/DeveloperManifest)
 * [Github](//github.com/saeedvir)
+* [Azaran-Code.ir](//azaran-code.ir)
 
 ## ☎️ CONTACT ME
 
