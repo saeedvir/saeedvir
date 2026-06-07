@@ -71,6 +71,7 @@ Hi my friends,
 ## 💬 SOCIAL LINKS
 
 * [Telegram](//t.me/PhpWebDeveloper)
+* [Telegram Channel](//t.me/DeveloperManifest)
 * [Github](//github.com/saeedvir)
 
 ## ☎️ CONTACT ME
